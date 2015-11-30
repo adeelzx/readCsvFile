@@ -5,7 +5,9 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Program to read csv file.
+ * */
 public class ReadCVS {
 
 	public static void main(String[] args) {
